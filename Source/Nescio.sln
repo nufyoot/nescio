@@ -1,0 +1,18 @@
+
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nescio", "Nescio\Nescio.csproj", "{314D4941-7ACB-4EE6-911D-8E658E759BF9}"
+EndProject
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{314D4941-7ACB-4EE6-911D-8E658E759BF9}.AppStore|Any CPU.ActiveCfg = AppStore|Any CPU
+		{314D4941-7ACB-4EE6-911D-8E658E759BF9}.AppStore|Any CPU.Build.0 = AppStore|Any CPU
+		{314D4941-7ACB-4EE6-911D-8E658E759BF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{314D4941-7ACB-4EE6-911D-8E658E759BF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{314D4941-7ACB-4EE6-911D-8E658E759BF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{314D4941-7ACB-4EE6-911D-8E658E759BF9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Nescio\Nescio.csproj
+	EndGlobalSection
+EndGlobal
